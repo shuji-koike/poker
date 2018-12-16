@@ -20,6 +20,7 @@
     "bootstrap-vue": "^2.0.0-beta",
     "express": "^4.16.3",
     "lodash": "^4.17.11",
+    "lodash.combinations": "^18.9.19",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
