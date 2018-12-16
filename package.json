@@ -1,0 +1,9 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shuji-koike/poker.git",
+  "author": "<shuji.koike@me.com>",
+  "license": "MIT",
+  "private": true
+}
